@@ -29,7 +29,7 @@ Haz clic en los enlaces para acceder a la documentación específica de cada ret
 # README del reto
 >La ruta de los enlaces son distintos aqui y en el README real, se han hecho funcionales aqui.
 ## Índice
-- **[Portada](../docs/00-Portada.md)**
+- **[Portada](../docs/00-portada.md)**
   - *Portada e índice del proyecto*
 * **[Fase 1: Entorno Virtual e Instalación de Windows](../docs/01-entorno)**
   * *Detalles sobre el uso de VMware, asignación de hardware (10GB RAM, 2 Cores) y creación de los usuarios locales (admin y trabajador).*
@@ -83,7 +83,7 @@ La empresa para la que preparas el equipo trabaja principalmente con el ecosiste
 > Este índice va en 99-entrega y en portada, donde se cambian los enlaces relativos y se corrigen.
 ## Índice
 ## Índice
-- **[Portada](./00-Portada.md)**
+- **[Portada](./00-portada.md)**
   - *Portada e índice del proyecto*
 * **[Fase 1: Entorno Virtual e Instalación de Windows](./01-entorno.md)**
   * *Detalles sobre el uso de VMware, asignación de hardware (10GB RAM, 2 Cores) y creación de los usuarios locales (admin y trabajador).*
