@@ -8,7 +8,7 @@
 
 ---
 ## Índice
-- **[Portada](./00-Portada.md)**
+- **[Portada](./00-portada.md)**
   - *Portada e índice del proyecto*
 * **[Fase 1: Entorno Virtual e Instalación de Windows](./01-entorno.md)**
   * *Detalles sobre el uso de VMware, asignación de hardware (10GB RAM, 2 Cores) y creación de los usuarios locales (admin y trabajador).*
